@@ -131,7 +131,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.5.1
 stack-data==0.6.3
-ta-lib @ file:///C:/Users/tes%27s/Downloads/ta_lib-0.6.3-cp313-cp313-win_amd64.whl#sha256=2041615b4181c3effc89e270e450e69f16aa04b5b02ab5531e6530f9b2d2528b
+ta-lib
 terminado==0.18.1
 textblob==0.19.0
 thinc==8.3.6
